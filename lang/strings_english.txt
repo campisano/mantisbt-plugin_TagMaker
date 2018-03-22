@@ -1,0 +1,12 @@
+<?php
+
+# Custom strings for english language
+$s_plugin_TagMarker_title                       = "Tag Marker Plugin";
+$s_plugin_TagMarker_description                 = "A plugin to mark the user define Tags";
+
+$s_plugin_TagMarker_enable                      = "Enable";
+$s_plugin_TagMarker_disable                     = "Disable";
+$s_plugin_TagMarker_tag_char                    = "Tag marker prefix";
+$s_plugin_TagMarker_change_configuration        = "Change configuration";
+
+?>
